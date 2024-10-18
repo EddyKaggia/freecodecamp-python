@@ -33,3 +33,6 @@ age = str(39)
 name = "eddy"
 
 print(name[1:])
+
+# any -> Evaluates to True if any of the values in a collection meets a criteria
+# all -> Evaluates to True if all of the values in a collection meets a criteria
