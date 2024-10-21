@@ -8,7 +8,7 @@
 
 def hello():
     print('Hello!')
-# This is the function definition. Thereis a name (hello) and a body, the set of instructions, which is the part that follows the colon. It's indented one level on the right.
+# This is the function definition. There is a name (hello) and a body, the set of instructions, which is the part that follows the colon. It's indented one level on the right.
 
 # To run this function, we must call it. This is the syntax to call the function:
 
