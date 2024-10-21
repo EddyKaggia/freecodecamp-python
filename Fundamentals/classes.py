@@ -18,6 +18,7 @@ class Dog:
     # the Dog class
     def bark(self):
         print('WOF!')
+        
 # self as the argument of the method points to the current object instance, and must be specified when defining a method.
 
 # We create an instance of a class, an object, using this syntax:
